@@ -1,2 +1,2 @@
-chanchito feliz
-agregando cambios luego de crear rama1
+ahora voy a cambiar el texto y usare este archivo como diario.
+vamos a probar jupuyter
